@@ -107,15 +107,15 @@ const HUYVESEA0 = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2025 - To: 25 June 2025
+From: 19 June 2025 - To: 26 June 2025
 
-Total Time: 2 hrs 46 mins
+Total Time: 4 hrs 21 mins
 
-HTML          1 hr 9 mins     ██████████▒░░░░░░░░░░░░░░   41.73 %
-Markdown      50 mins         ███████▓░░░░░░░░░░░░░░░░░   30.37 %
-CSS           26 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-JavaScript    9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-YAML          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+HTML          1 hr 9 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
+Markdown      1 hr 7 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
+CSS           26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+TypeScript    25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+Java          25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
 ```
 
 <!--END_SECTION:waka-->
